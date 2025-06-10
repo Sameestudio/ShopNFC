@@ -8,7 +8,10 @@ pluginManagement {
             }
         }
         mavenCentral()
+<<<<<<< HEAD
         jcenter()
+=======
+>>>>>>> f196124c92308be08870bf4c05ede937a693f7b3
         gradlePluginPortal()
     }
 }
@@ -17,7 +20,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+<<<<<<< HEAD
         jcenter()
+=======
+>>>>>>> f196124c92308be08870bf4c05ede937a693f7b3
     }
 }
 

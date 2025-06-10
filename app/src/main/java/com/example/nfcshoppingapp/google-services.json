@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332422025855",
+    "project_id": "nfcshoppingapp",
+    "storage_bucket": "nfcshoppingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332422025855:android:0c29e5b0ca3c38148ea54a",
+        "android_client_info": {
+          "package_name": "com.example.nfcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332422025855-qnmpb7pf5f6djsue89lb73mjtemogd97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nfcapp",
+            "certificate_hash": "361ba7918ca4a0f1dec47c5fb5e80da397562d0e"
+          }
+        },
+        {
+          "client_id": "332422025855-6889lgm6mbt4d25mc07793q00d5lfi6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkt7izFggwLu_DdGGOJPDrIMRLad-ZPrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332422025855-6889lgm6mbt4d25mc07793q00d5lfi6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
